@@ -1,10 +1,10 @@
-\documentclass[12pt]{article}
+\documentclass[12pt, english]{article}
 
 \usepackage{sbc-template}
 
 \usepackage{graphicx,url,amsmath}
 
-\usepackage[brazil]{babel}   
+%\usepackage[brazil]{babel}   
 \usepackage[latin1]{inputenc}  
 
      
@@ -32,13 +32,13 @@
 \end{abstract}
      
 %\begin{resumo} 
-%  Este meta-artigo descreve o estilo a ser usado na confecção de artigos e
-%  resumos de artigos para publicação nos anais das conferências organizadas
-%  pela SBC. É solicitada a escrita de resumo e abstract apenas para os artigos
-%  escritos em português. Artigos em inglês deverão apresentar apenas abstract.
+%  Este meta-artigo descreve o estilo a ser usado na confecÃ§Ã£o de artigos e
+%  resumos de artigos para publicaÃ§Ã£o nos anais das conferÃªncias organizadas
+%  pela SBC. Ã‰ solicitada a escrita de resumo e abstract apenas para os artigos
+%  escritos em portuguÃªs. Artigos em inglÃªs deverÃ£o apresentar apenas abstract.
 %  Nos dois casos, o autor deve tomar cuidado para que o resumo (e o abstract)
-%  não ultrapassem 10 linhas cada, sendo que ambos devem estar na primeira
-%  página do artigo.
+%  nÃ£o ultrapassem 10 linhas cada, sendo que ambos devem estar na primeira
+%  pÃ¡gina do artigo.
 %\end{resumo}
 
 
@@ -46,12 +46,9 @@
 
 The idea of a fully egalitarian world is an impossible abstraction. As \cite{lin1999building} shows, people are born in an already stratified social space where individuals in different positions have different access, and therefore, different mobilizing capacities of their social capital. This is due to individual positioning in social structures, family socioeconomic background, and other person related attributes. This is no news to sociologists. However, the process of social groups formation is not so acknowledged yet although it is central to understand how the access to social resources is achieved. This has only recently been investigated.
 
-Here, I intend to show that the concept of social capital has been widely mobilized in a confusing and careless way, specially within studies that deal with educational inequalities. This, according to \cite{portes2000two}, can lead to spurious conclusions. I will present a methodological framework that operationalizes the concept very well obtaining many gains in objectivity and reliability, social network analysis.
+This paper aims to discuss the inequalities that are held within the academic system, specifically within a social sciences postgraduate program in a Brazilian university. To do this, we will focus our investigation in two main aspects: academic productivity and social ties formation. We used data collected online from 47 social sciences psotgraduate students (masters and doctoral). To perform the analysis, we used linear models, social network analysis, stochastic blockmodelling and the highly modern \textit{social selection model} (SSM).
 
-Therefore, this paper aims to discuss the inequalities that are held within the academic system, specifically within a social sciences postgraduate program in a Brazilian university. To do this, we will focus our investigation in two main aspects: academic productivity and social ties formation. We used data collected online from 47 social sciences psotgraduate students (masters and doctoral). To perform the analysis, we used linear models, social network analysis, stochastic blockmodelling and the highly modern \textit{social selection model} (SSM).
-
-This research has the merit of presenting new data and new evidence on the subject and it also operationalizes the concept of social capital in a different and more straightforward way that we see in the literature, i.e., with formal relational data. Let us begin reviewing social capital concept and how this concept is mobilized within the educational inequalities field.
-
+This research has the merit of presenting new data and new evidence on the subject and it also operationalizes the concept of social capital in a different and more straightforward way that we see in the literature, i.e., with formal relational data.
 
 \section{Social Capital and Inequalities}
 
@@ -77,30 +74,6 @@ Up to this point, it is easy to perceive that the concept is operationalized in 
 
 \cite{erickson2001good} develops her paper in close dialogue with Granovetter. She investigates the effect of social capital on the hiring process focusing both on employee and employer. Social capital here is regarded as the diversity and extension of personal network of the individuals. The author states that social capital can be desirable, irrelevant or undesirable. ``From an employer's point of view, employee social capital can be an asset if used for the  firm but a threat if used by the employee to set up another rival firm, or used by the employee after defecting to another firm'' \cite[p. 131-2]{erickson2001good}. According to the author, ``looking  at  the  social  and  human  capital  that  workers have,  and  the  level  and income  of  the  jobs  they  have,  will show whether good networks make their own contribution to getting a better job'' \cite[p. 133]{erickson2001good}. The main point of the article is that regardless of the contact point by which the job was taken, having a good social capital will lead to better jobs and better pay.
 
-Now we will take a closer look on how the concept of ``social capital'' is mobilized within educational inequalities studies.
-
-
-\subsection{Social Capital and Education}
-
-Most studies reviewed within the field of education inequalities do not deal with social capital \cite{ribeiro2009desigualdade,ribeiro2009classe,prates2014desigualdades,vilela2009origens,fernandes2005estratificaccao}. 
-
-\cite[p. 110]{silva2003expansao} studies educational stratification within the brazilian educational expansion context. This author argues that ``a more convenient form to analyze the determination of scholarity is to concept it in terms of a sequence of transitions between educational levels''. Thus, \cite{silva2003expansao} divides his analysis in three moments, namely, the completion of the 1st grade, the completion of the 4th grade and the completion of the 8th grade\footnote{Grades of Brazilian school system.}. He uses an approach sugested by \cite{mare1980social} that employs logistic models to estimate success probabilities for each one of the mentioned transitions. According to \cite[p. 109]{silva2003expansao}, to use a linear model is problematic because ``we discard the possibility that its coefficients vary in a systematic and significative way through the diverse scholarity levels''\footnote{All translations within this paper were made by the author.}. The author uses these variables as predictors: \textit{area}, \textit{region}, \textit{gender}, \textit{skin colour}, \textit{age} (and $age^2$), \textit{education of the householder}, \textit{income}, \textit{female householder} and \textit{number of children}. It is curious, though, that the mobilization of the variable \textit{female householder} as a proxy of social capital does not seem a good choice because it is based on a highly questionable assumption (that families with a female householder have poorer social capital) and it does not tell us anything apparently relevant about tie mobilization and its resources. \cite{silva2003expansao} observes the same educational stratification pattern contained in Brazilian specialized literature with the exception of the variable \textit{per capita family income} ``which grows as one goes further inside school system; this pattern is explicable by the growing incidence of private and paid teaching in higher instruction levels of Brazilian educational system'' \cite[p. 132]{silva2003expansao}.
-
-
-\cite{mont2011estratificaccao} applied multinomial logistic regression models to understand the completion of secondary school and entering university. This author found that, in Brazil from 2001 to 2007, the impact of social origins on the access of graduate education persists or increase when compared to secondary school. He states that ``although the private university system is more unequal than the public system, the later has shown a considerable increase ineducational stratification. Inequalities based on geographic region, race, gender, and social capital are also present'' \cite[p. 430]{mont2011estratificaccao}. Unfortunately, the author used the same variable (\textit{female householder}) as a proxy of social capital without any discussion on the subject. Indeed, the only place he mentions social capital is on the articles abstract.
-
-
-\cite{silva2000tendencias} also use \textit{female householder} along with the number of \textit{14 or less years old children} in the families studied, the percentage of \textit{mothers that work} and whether \textit{children from 10 to 14 years old work} or not. According to them
-
-\begin{quotation}
-	Two changes in familiar structure observed in the last decades can represent a decrease of social capital at children's disposal and less favorable contexts to their schooling. The first, resultant from the growing instability of marriages and unions, is the increase of the proportion of families that have a female householder (\dots). The second change is due simply to the growing participation of women in the labor force, which results in the increase of the proportion of mothers that work. \cite{silva2000tendencias}
-\end{quotation}
-
-Although the authors are worried about explaining the social context of the chosen variables, why are they good indexes for social capital or not is never discussed.
-
-The papers reviewed here are sufficient to show that the research field of educational inequalities in Brazil does not seem to give much attention to how ``social capital'' is operationalized. In short, the main argument I want to delineate in this section is that this concept has been widely and inadvertently used. I believe that the most useful tool to handle it is social network analysis by which social capital can be objectly measured using a repertoire of indexes like Burt's constraint, centrality measures (both indexes for popularity and activity within a given group), structural equivalence and modelled using up-to-date statistical techniques. This methodological framework will be presented in next section.
-
-
 
 \section{Data and Methods}
 
@@ -110,7 +83,6 @@ The developed questionnaire had four parts.The first was an invitation and an ag
 
 \begin{figure}[!ht]
 	\centering
-
 	\label{six-networks}
 	\includegraphics[scale=0.75]{redes1.pdf}
 	\includegraphics[scale=0.75]{redes2.pdf}
@@ -183,59 +155,28 @@ If we observe some descriptive statistics of the data in Tables \ref{quanti} and
 \end{table}
 
 
-When asked ``which is your main occupation?'', 61,7\% of the respondents declare themselves as ``students''. The second most cited occupation was ``professor'' (10,6\%) followed by ``sociologist'' (8,5\%) as we can see in Table \ref{occupations}.
+
+The subjects were also asked to answer about their perception on their on grades and productivity regarding paper publication. Most students have a good self-evaluation about their grades but a bad one about publishing\footnote{For ``grades'', the perception was measured in a scale from 1 (I have horrible grades) through 5 (I have excellent grades). For ``productivity'', the perception was also measured in a scale from 1 (I do not publish anything ever) through 5 (I am a publishing machine).}. Productivity was measured by the number of published papers, the number of papers presented in congresses and the number of classes given (all since 2014). As a preliminar analysis of the relations between students perceptions (\textit{Grades} and \textit{Pubs}) and their actual productivity (\textit{Papers, Congress} and \textit{Classes}), I correlated this variables. Age and Income were also added to the correlation matrix (Table \ref{correlations}) along with a \textit{productivity score} (\textit{Prod.}) made by summing the productivity variables with weight 2 assigned to published papers.
+
+%\begin{figure}[hbt]
+%	\centering
+
+%	\label{self-evaluation}
+%	\includegraphics[scale=0.6]{autoavaliacoes.pdf}
+%	%\includegraphics[scale=0.39]{autoavaliacao_publicacoes.pdf}
+%	\caption{Self-evaluation}
+%\end{figure}
 
 
-
-% latex table generated in R 3.3.0 by xtable 1.8-2 package
-% Fri Jun 10 19:19:02 2016
-\begin{table}[ht]
-
-		\centering
-		\caption{Occupations}
-		\label{occupations}
+%\begin{figure}[ht]
+%	\centering
 	
-	\begin{tabular}{lrr}
-			\hline
-			& Frequency & Percentage \\ 
-			\hline
-			Research Assistant &   1 & 2.13 \\ 
-			Social Worker &   1 & 2.13 \\ 
-			Housewife &   1 & 2.13 \\ 
-			Student &  29 & 61.70 \\ 
-			Researcher &   3 & 6.38 \\ 
-			Professor &   5 & 10.64 \\ 
-			Psychologist &   1 & 2.13 \\ 
-			Government Employee &   2 & 4.26 \\ 
-			Sociologist &   4 & 8.51 \\ 
-			Total &  47 & 100.00 \\ 
-			\hline
-		\end{tabular}
-	
-	
-\end{table}
-
-The subjects were also asked to answer about their perception on their on grades and productivity (Figure \ref{self-evaluation}) regarding paper publication. Most students have a good self-evaluation about their grades but a bad one about publishing\footnote{For ``grades'', the perception was measured in a scale from 1 (I have horrible grades) through 5 (I have excellent grades). For ``productivity'', the perception was also measured in a scale from 1 (I do not publish anything ever) through 5 (I am a publishing machine).}. In Figure \ref{productivity} we can check respondents productivity measured by the number of published papers, the number of papers presented in congresses and the number of classes given (all since 2014). As a preliminar analysis of the relations between students perceptions (\textit{Grades} and \textit{Pubs}) and their actual productivity (\textit{Papers, Congress} and \textit{Classes}), I correlated this variables. Age and Income were also added to the correlation matrix (Table \ref{correlations}) along with a \textit{productivity score} (\textit{Prod.}) made by summing the productivity variables with weight 2 assigned to published papers.
-
-\begin{figure}[hbt]
-	\centering
-
-	\label{self-evaluation}
-	\includegraphics[scale=0.6]{autoavaliacoes.pdf}
-	%\includegraphics[scale=0.39]{autoavaliacao_publicacoes.pdf}
-	\caption{Self-evaluation}
-\end{figure}
-
-
-\begin{figure}[ht]
-	\centering
-	
-	\label{productivity}
-	\includegraphics[scale=0.7]{pub_con_classes.pdf}
-	%\includegraphics[scale=0.39]{congressos.pdf}
-	%\includegraphics[scale=0.39]{aulas.pdf}
-	\caption{Productivity}
-\end{figure}
+%	\label{productivity}
+%	\includegraphics[scale=0.7]{pub_con_classes.pdf}
+%	%\includegraphics[scale=0.39]{congressos.pdf}
+%	%\includegraphics[scale=0.39]{aulas.pdf}
+%	\caption{Productivity}
+%\end{figure}
 
 % latex table generated in R 3.3.0 by xtable 1.8-2 package
 % Fri Jun 10 20:35:58 2016
@@ -334,15 +275,15 @@ What first comes to attention is the big effect that participating in a research
 
 Here, we begin to operationalize the social capital concept as resources embbeded in the social structure. The main purposive action of the postgraduate student in Brazilian academic system is to publish. In the mobilization of one's immediate social structure, this can be facilitated by collaborating, asking for a pair review on a ready article or simply by taking advisement from people that have more theoretical or methodological habilities. Also, popularity and a good social positioning, for example, are powerful social resources. Let us begin the analysis.
 
-In Figure \ref{degree-distributions}, I present the degree distributions for the six networks.
+%In Figure \ref{degree-distributions}, I present the degree distributions for the six networks.
 
-\begin{figure}[htb]
-	\centering
+%\begin{figure}[htb]
+%	\centering
 
-	\label{degree-distributions}
-	\includegraphics[scale=0.7]{degree_distributions.pdf}
-	\caption{Degree Distributions}
-\end{figure}
+%	\label{degree-distributions}
+%	\includegraphics[scale=0.7]{degree_distributions.pdf}
+%	\caption{Degree Distributions}
+%\end{figure}
 
 The network measures that interest us here are, predominantly, indegree centrality and outdegree centrality which are indicators respectively for popularity and activity. We can notice that Review and Collaboration networks are not so connected; they have a high amout of nodes with degrees 0 and 1. The Professional Indication network is relatively decentralized with popularity and it has some nodes who are extremely active (with more than 20 indications). The Friendship network is also highly decentralized. Regarding the Methodological and the Theoretical advisement, popularity is what is most important for this investigation rather than activity, i.e., who is seen by the pairs as the most competent student regarding methodological and theoretical issues and in what extent this popularity relates with productivity. It is important to observe that the Methodological network is more concentrated than the Theoretical one. The later has more nodes with indegrees 3, 4 and 5 than the former. 
 
@@ -353,15 +294,17 @@ I estimated again the generalized linear model presented in equation \ref{linear
 
 One of the most important concepts of social network analysis is \textit{structural equivalence}. Two individuals are considered structurally equivalent when they present the same relational profile, i.e., the same tie patterns \cite{lazega2014redes,denooy2011exploratory,wasserman1994social}. 
 
-I looked after blocks of structurally equivalent nodes within the Review network. I used the Erdös-Rényi mixture model, a special case of binary stochastic blockmodels. It was fit with the algorithm presented by \cite{daudin2008mixture}. The results for the model are shown in Figure \ref{blockmodel} and the Review network coloured by block is in Figure \ref{net-blocks}.
+I looked after blocks of structurally equivalent nodes within the Review network. I used the ErdÃ¶s-RÃ©nyi mixture model, a special case of binary stochastic blockmodels. It was fit with the algorithm presented by \cite{daudin2008mixture}. The results for the model are shown in Figure \ref{net-blocks}. 
 
-\begin{figure}[ht]
-	\centering
+%and the Review network coloured by block is in Figure \ref{net-blocks}.
 
-	\label{blockmodel}
-	\includegraphics[scale=.5]{block_out.pdf}
-	\caption{Blockmodel results}
-\end{figure}
+%\begin{figure}[ht]
+%	\centering
+
+%	\label{blockmodel}
+%	\includegraphics[scale=.5]{block_out.pdf}
+%	\caption{Blockmodel results}
+%\end{figure}
 
 \begin{figure}[h]
 	\centering
@@ -430,7 +373,7 @@ The linear models did not present big productivity differences by gender, race o
 
 A quite amazing finding is that scholarship students are less productive than non-scholarship ones. This deserves deeper investigation for it contrasts all university funding policies. One hypothesis would be that most non-scholarship students work as professors in other universities and, therefore, are more productive considering the amount of classes to give and final works to orient. That was not the case since most non-scholarship students are not working. Also, that hypothesis is not in agreement with the linear models results which show that, on average, students who work are less productive than those who do not. This subject is out of the scope of this paper and I will limit myself to point the relevance of further investigation.
 
-Finally, I hope to have shown the strength of social network analysis on the operationalization of social capital. Although I have addressed a different area from the educational inequalities articles reviewed, I could deal with the same concept, i.e., ``resources embedded in a social structure which are accessed and/or mobilized in purposive actions'' \cite[p. 35]{lin1999building} in a more straightfoward and objective way. We can actually visualize the social structure and mathematically measure popularity, social positioning and social roles. The educational inequalities field would gain a lot with the use of this methodological framework and a more reflexive way of thinking on social capital.
+Finally, I hope to have shown the strength of social network analysis on the operationalization of social capital. Here I could deal with this very same concept, i.e., ``resources embedded in a social structure which are accessed and/or mobilized in purposive actions'' \cite[p. 35]{lin1999building} in a more straightfoward and objective way using social network analysis. We can actually visualize the social structure and mathematically measure popularity, social positioning and social roles. Studies on social capital inequalities would gain a lot with the use of this methodological framework and a more reflexive way of thinking on social capital.
 
 \bibliographystyle{sbc}
 \bibliography{BIBSEA}
