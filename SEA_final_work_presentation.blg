@@ -1,0 +1,22 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: SEA_final_work_presentation.aux
+The style file: abntex2-alf.bst
+Database file #1: abntex2-options.bib
+Database file #2: BIBSEA.bib
+"{" immediately follows a field name---line 301 of file BIBSEA.bib
+ :  publisher
+ :           {Berg},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 548 of file BIBSEA.bib
+ :  
+ :  urlaccessdate={28/12/2015}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "silva2000tendencias"
+refers to entry "10.1590/S0011-52582000000300001", which doesn't exist
+Warning--I didn't find a database entry for "10.1590/S0011-52582000000300001"
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+(There were 3 error messages)

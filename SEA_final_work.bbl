@@ -1,0 +1,200 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Csardi \& Nepusz 2006]{csardi2006igraph}
+\abntrefinfo{Csardi \& Nepusz}{CSARDI; NEPUSZ}{2006}
+{CSARDI, Gabor; NEPUSZ, Tamas. The igraph software package for complex network
+  research.
+\emph{InterJournal, Complex Systems}, v.~1695, n.~5, p.~1--9, 2006.}
+
+\bibitem[Dahl 2016]{xtable}
+\abntrefinfo{Dahl}{DAHL}{2016}
+{DAHL, David~B. \emph{xtable: Export Tables to LaTeX or HTML}.
+[S.l.], 2016. R package version 1.8-2. Dispon{\'\i}vel em:
+  \url{https://CRAN.R-project.org/package=xtable}.}
+
+\bibitem[Daudin, Picard \& Robin 2008]{daudin2008mixture}
+\abntrefinfo{Daudin, Picard \& Robin}{DAUDIN; PICARD; ROBIN}{2008}
+{DAUDIN, J-J; PICARD, Franck; ROBIN, St{\'e}phane. A mixture model for random
+  graphs.
+\emph{Statistics and computing}, Springer, v.~18, n.~2, p. 173--183, 2008.}
+
+\bibitem[De Nooy, Mrvar \& Batagelj 2011]{denooy2011exploratory}
+\abntrefinfo{De Nooy, Mrvar \& Batagelj}{DE NOOY; MRVAR; BATAGELJ}{2011}
+{DE NOOY, Wouter; MRVAR, Andrej; BATAGELJ, Vladimir. \emph{Exploratory social
+  network analysis with Pajek}. Cambridge: Cambridge University Press, 2011.}
+
+\bibitem[Erickson 2001]{erickson2001good}
+\abntrefinfo{Erickson}{ERICKSON}{2001}
+{ERICKSON, Bonnie~H. Good networks and good jobs: The value of social capital
+  to employers and employees. In:  LIN, Nan; COOK, Karen; BURT, Ronald (Ed.).
+  \emph{Social capital: Theory and research}. New York: Aldine De Gruyter,
+  2001. p. 127--158.}
+
+\bibitem[FERNANDES 2005]{fernandes2005estratificaccao}
+\abntrefinfo{FERNANDES}{FERNANDES}{2005}
+{FERNANDES, Danielle~C. Estratifica{\c{c}}{\~a}o educacional, origem
+  socioecon{\^o}mica e ra{\c{c}}a no brasil: as barreiras da cor.
+\emph{Pr{\^e}mio Ipea}, v.~40, p. 21--72, 2005.}
+
+\bibitem[Granovetter 1973]{granovetter1973strength}
+\abntrefinfo{Granovetter}{GRANOVETTER}{1973}
+{GRANOVETTER, Mark~S. The strength of weak ties.
+\emph{American journal of sociology}, JSTOR, p. 1360--1380, 1973.}
+
+\bibitem[Granovetter 1995]{granovetter1995getting}
+\abntrefinfo{Granovetter}{GRANOVETTER}{1995}
+{GRANOVETTER, Mark~S. \emph{Getting a job}: A study of contacts and careers.
+  Chicago: University of Chicago Press, 1995.}
+
+\bibitem[Handcock et al. 2008]{statnet}
+\abntrefinfo{Handcock et al.}{HANDCOCK et al.}{2008}
+{HANDCOCK, Mark~S. et al. {statnet}: Software tools for the representation,
+  visualization, analysis and simulation of network data.
+\emph{Journal of Statistical Software}, v.~24, n.~1, p. 1--11, 2008.
+Dispon{\'\i}vel em: \url{http://www.jstatsoft.org/v24/i01}.}
+
+\bibitem[Higgins 2005]{higgins2005fundamentos}
+\abntrefinfo{Higgins}{HIGGINS}{2005}
+{HIGGINS, Silvio~Salej. \emph{Fundamentos te{\'o}ricos do capital social}.
+  Chapecó: Argos, 2005.}
+
+\bibitem[Lazega \& Higgins 2014]{lazega2014redes}
+\abntrefinfo{Lazega \& Higgins}{LAZEGA; HIGGINS}{2014}
+{LAZEGA, Emmanuel; HIGGINS, Silvio~Salej. \emph{Redes sociais e estruturas
+  relacionais}. Belo Horizonte: Fino Tra{\c{c}}o, 2014.}
+
+\bibitem[Leifeld 2013]{texreg}
+\abntrefinfo{Leifeld}{LEIFELD}{2013}
+{LEIFELD, Philip. {texreg}: Conversion of statistical model output in {R} to
+  {\LaTeX} and {HTML} tables.
+\emph{Journal of Statistical Software}, v.~55, n.~8, p. 1--24, 2013.
+Dispon{\'\i}vel em: \url{http://www.jstatsoft.org/v55/i08/}.}
+
+\bibitem[Lin 1999]{lin1999building}
+\abntrefinfo{Lin}{LIN}{1999}
+{LIN, Nan. Building a network theory of social capital.
+\emph{Connections}, v.~22, n.~1, p. 28--51, 1999.}
+
+\bibitem[Lusher, Koskinen \& Robins 2013]{lusher2013exponential}
+\abntrefinfo{Lusher, Koskinen \& Robins}{LUSHER; KOSKINEN; ROBINS}{2013}
+{LUSHER, Dean; KOSKINEN, Johan; ROBINS, Garry (Ed.). \emph{Exponential random
+  graph models for social networks}: Theory, methods, and applications.
+  Cambridge: Cambridge University Press, 2013.}
+
+\bibitem[Mare 1980]{mare1980social}
+\abntrefinfo{Mare}{MARE}{1980}
+{MARE, Robert~D. Social background and school continuation decisions.
+\emph{Journal of the American Statistical Association}, Taylor \& Francis,
+  v.~75, n.~370, p. 295--305, 1980.}
+
+\bibitem[Mont'Alv{\~a}o 2011]{mont2011estratificaccao}
+\abntrefinfo{Mont'Alv{\~a}o}{MONT'ALV{\~A}O}{2011}
+{MONT'ALV{\~A}O, Arnaldo. Estratifica{\c{c}}{\~a}o educacional no brasil do
+  s{\'e}culo {XXI}.
+\emph{Dados}, SciELO Brasil, v.~52, n.~2, p. 389--430, 2011.}
+
+\bibitem[Moody 2004]{moody2004structure}
+\abntrefinfo{Moody}{MOODY}{2004}
+{MOODY, James. The structure of a social science collaboration network:
+  Disciplinary cohesion from 1963 to 1999.
+\emph{American sociological review}, Sage Publications, v.~69, n.~2, p.
+  213--238, 2004.}
+
+\bibitem[Portes 1998]{portes1998social}
+\abntrefinfo{Portes}{PORTES}{1998}
+{PORTES, Alejandro. Social capital: Its origins and applications in modern
+  sociology.
+\emph{Annual Review of Sociology}, p. 1--24, 1998.}
+
+\bibitem[Portes 2000]{portes2000two}
+\abntrefinfo{Portes}{PORTES}{2000}
+{PORTES, Alejandro. The two meanings of social capital. In:  SPRINGER.
+  \emph{Sociological forum}. [S.l.], 2000. v.~15, n.~1, p. 1--12.}
+
+\bibitem[Prates \& Collares 2014]{prates2014desigualdades}
+\abntrefinfo{Prates \& Collares}{PRATES; COLLARES}{2014}
+{PRATES, Antonio Augusto~Pereira; COLLARES, Ana Cristina~Murta.
+  \emph{Desigualdade e expansão do ensino superior na sociedade
+  contemporânea}: O caso brasileiro no final do século {XX} ao princípio do
+  século {XXI}. Belo Horizonte, MG: Fino Traço, 2014.}
+
+\bibitem[{R CORE TEAM} 2016]{rcoreteam2016}
+\abntrefinfo{{R CORE TEAM}}{{R CORE TEAM}}{2016}
+{{R CORE TEAM}. \emph{R: A Language and Environment for Statistical Computing}.
+Vienna, Austria, 2016. Dispon{\'\i}vel em: \url{https://www.R-project.org/}.}
+
+\bibitem[Ribeiro 2009a]{ribeiro2009classe}
+\abntrefinfo{Ribeiro}{RIBEIRO}{2009a}
+{RIBEIRO, Carlos Antonio~Costa. Classe, raça e mobilidade social no brasil.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Desigualdade de oportunidades no
+  Brasil}. Belo Horizonte, MG: Argvmentvm, 2009a. p. 151--186.}
+
+\bibitem[Ribeiro 2009b]{ribeiro2009desigualdade}
+\abntrefinfo{Ribeiro}{RIBEIRO}{2009b}
+{RIBEIRO, Carlos Antonio~Costa. Desigualdade de oportunidades educacionais no
+  brasil: Raça, classe e gênero.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{Desigualdade de oportunidades no
+  Brasil}. Belo Horizonte, MG: Argvmentvm, 2009b. p. 21--74.}
+
+\bibitem[Robins \& Daraganova 2013]{robins2013social}
+\abntrefinfo{Robins \& Daraganova}{ROBINS; DARAGANOVA}{2013}
+{ROBINS, Garry; DARAGANOVA, Galina. Social selection, dyadic covariates, and
+  geospatial effects. In:  LUSHER, Dean; KOSKINEN, Johan; ROBINS, Garry (Ed.).
+  \emph{Exponential random graph models for social networks}: Theory, methods,
+  and applications. Cambridge: Cambridge University Press, 2013.}
+
+\bibitem[Robins, Elliott \& Pattison 2001]{robins2001network}
+\abntrefinfo{Robins, Elliott \& Pattison}{ROBINS; ELLIOTT; PATTISON}{2001}
+{ROBINS, Garry; ELLIOTT, Peter; PATTISON, Philippa. Network models for social
+  selection processes.
+\emph{Social networks}, Elsevier, v.~23, n.~1, p. 1--30, 2001.}
+
+\bibitem[Robins et al. 2007]{robins2007introduction}
+\abntrefinfo{Robins et al.}{ROBINS et al.}{2007}
+{ROBINS, Garry et al. An introduction to exponential random graph (p*) models
+  for social networks.
+\emph{Social networks}, Elsevier, v.~29, n.~2, p. 173--191, 2007.}
+
+\bibitem[Silva \& Hasenbalg 2000]{silva2000tendencias}
+\abntrefinfo{Silva \& Hasenbalg}{SILVA; HASENBALG}{2000}
+{SILVA, Nelson do~Valle; HASENBALG, Carlos. {Tendências da desigualdade
+  educacional no Brasil}.
+\emph{{Dados}}, scielo, v.~43, p. 423 -- 445, 2000.
+Dispon{\'\i}vel em:
+  \url{http://www.scielo.br/scielo.php?script=sci\_arttext&pid=S0011-52582000000300001&nrm=iso}.}
+
+\bibitem[Silva 2003]{silva2003expansao}
+\abntrefinfo{Silva}{SILVA}{2003}
+{SILVA, Nelson do Valle. Expansão escolar e estratificação educacional no
+  brasil. In:  HASENBALG, Carlos~Alfredo; SILVA, Nelson do Valle (Org.).
+  \emph{Origens e destinos}: desigualdades sociais ao longo da vida. Rio de
+  Janeiro: IUPERJ/UCAM, 2003.}
+
+\bibitem[Vilela \& Collares 2009]{vilela2009origens}
+\abntrefinfo{Vilela \& Collares}{VILELA; COLLARES}{2009}
+{VILELA, Elaine~M.; COLLARES, Ana~Cristina. Origens e destinos sociais: pode a
+  escola quebrar essa liga{\c{c}}{\~a}o?
+\emph{Teoria \& Sociedade (UFMG)}, v.~17, n. 62-91, 2009.}
+
+\bibitem[Wang et al. 2016]{wang2016social}
+\abntrefinfo{Wang et al.}{WANG et al.}{2016}
+{WANG, Peng et al. Social selection models for multilevel networks.
+\emph{Social Networks}, Elsevier, v.~44, p. 346--362, 2016.}
+
+\bibitem[Wasserman \& Faust 1994]{wasserman1994social}
+\abntrefinfo{Wasserman \& Faust}{WASSERMAN; FAUST}{1994}
+{WASSERMAN, Stanley; FAUST, Katherine. \emph{Social network analysis}: Methods
+  and applications. Cambridge: Cambridge university press, 1994. v.~8.}
+
+\bibitem[Wickham 2009]{ggplot2}
+\abntrefinfo{Wickham}{WICKHAM}{2009}
+{WICKHAM, Hadley. \emph{ggplot2: Elegant Graphics for Data Analysis}. New York:
+  Springer-Verlag, 2009.
+ISBN 978-0-387-98140-6. Dispon{\'\i}vel em: \url{http://ggplot2.org}.}
+
+\end{thebibliography}

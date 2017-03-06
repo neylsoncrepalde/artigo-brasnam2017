@@ -1,0 +1,73 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Erickson 2001]{erickson2001good}
+\abntrefinfo{Erickson}{ERICKSON}{2001}
+{ERICKSON, B.~H. Good networks and good jobs: The value of social capital to
+  employers and employees. In:  LIN, N.; COOK, K.; BURT, R. (Ed.). \emph{Social
+  capital: Theory and research}. New York: Aldine De Gruyter, 2001. p.
+  127--158.}
+
+\bibitem[Granovetter 1973]{granovetter1973strength}
+\abntrefinfo{Granovetter}{GRANOVETTER}{1973}
+{GRANOVETTER, M.~S. The strength of weak ties.
+\emph{American journal of sociology}, JSTOR, p. 1360--1380, 1973.}
+
+\bibitem[Higgins 2005]{higgins2005fundamentos}
+\abntrefinfo{Higgins}{HIGGINS}{2005}
+{HIGGINS, S.~S. \emph{Fundamentos te{\'o}ricos do capital social}. Chapecó:
+  Argos, 2005.}
+
+\bibitem[Lin 1999]{lin1999building}
+\abntrefinfo{Lin}{LIN}{1999}
+{LIN, N. Building a network theory of social capital.
+\emph{Connections}, v.~22, n.~1, p. 28--51, 1999.}
+
+\bibitem[Mont'Alv{\~a}o 2011]{mont2011estratificaccao}
+\abntrefinfo{Mont'Alv{\~a}o}{MONT'ALV{\~A}O}{2011}
+{MONT'ALV{\~A}O, A. Estratifica{\c{c}}{\~a}o educacional no brasil do
+  s{\'e}culo {XXI}.
+\emph{Dados}, SciELO Brasil, v.~52, n.~2, p. 389--430, 2011.}
+
+\bibitem[Moody 2004]{moody2004structure}
+\abntrefinfo{Moody}{MOODY}{2004}
+{MOODY, J. The structure of a social science collaboration network:
+  Disciplinary cohesion from 1963 to 1999.
+\emph{American sociological review}, Sage Publications, v.~69, n.~2, p.
+  213--238, 2004.}
+
+\bibitem[Portes 1998]{portes1998social}
+\abntrefinfo{Portes}{PORTES}{1998}
+{PORTES, A. Social capital: Its origins and applications in modern sociology.
+\emph{Annual Review of Sociology}, p. 1--24, 1998.}
+
+\bibitem[Portes 2000]{portes2000two}
+\abntrefinfo{Portes}{PORTES}{2000}
+{PORTES, A. The two meanings of social capital. In:  SPRINGER.
+  \emph{Sociological forum}. [S.l.], 2000. v.~15, n.~1, p. 1--12.}
+
+\bibitem[Robins, Elliott \& Pattison 2001]{robins2001network}
+\abntrefinfo{Robins, Elliott \& Pattison}{ROBINS; ELLIOTT; PATTISON}{2001}
+{ROBINS, G.; ELLIOTT, P.; PATTISON, P. Network models for social selection
+  processes.
+\emph{Social networks}, Elsevier, v.~23, n.~1, p. 1--30, 2001.}
+
+\bibitem[Silva \& Hasenbalg 2000]{silva2000tendencias}
+\abntrefinfo{Silva \& Hasenbalg}{SILVA; HASENBALG}{2000}
+{SILVA, N. d.~V.; HASENBALG, C. {Tendências da desigualdade educacional no
+  Brasil}.
+\emph{{Dados}}, scielo, v.~43, p. 423 -- 445, 2000.
+Dispon{\'\i}vel em:
+  \url{http://www.scielo.br/scielo.php?script=sci\_arttext&pid=S0011-52582000000300001&nrm=iso}.}
+
+\bibitem[Silva 2003]{silva2003expansao}
+\abntrefinfo{Silva}{SILVA}{2003}
+{SILVA, N. do V. Expansão escolar e estratificação educacional no brasil.
+  In:  HASENBALG, C.~A.; SILVA, N. do V. (Org.). \emph{Origens e destinos}:
+  desigualdades sociais ao longo da vida. Rio de Janeiro: IUPERJ/UCAM, 2003.}
+
+\end{thebibliography}

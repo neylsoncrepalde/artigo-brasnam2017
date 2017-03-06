@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Social Capital and Inequalities}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Social Capital and Education}{8}{0}{2}
+\beamer@sectionintoc {3}{Data and Methods}{10}{0}{3}
+\beamer@sectionintoc {4}{Results}{15}{0}{4}
+\beamer@subsectionintoc {4}{1}{Relational Data}{24}{0}{4}
+\beamer@subsectionintoc {4}{2}{Collaboration and association among postgraduate students}{26}{0}{4}
+\beamer@subsubsectionintoc {4}{2}{1}{Stochastic Blockmodel}{26}{0}{4}
+\beamer@subsubsectionintoc {4}{2}{2}{Social Selection Model}{28}{0}{4}
+\beamer@sectionintoc {5}{Discussion}{29}{0}{5}

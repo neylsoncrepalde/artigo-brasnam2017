@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Arch Linux)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: artigo-brasnam.aux
+The style file: sbc.bst
+Database file #1: BIBSEA.bib
+"{" immediately follows a field name---line 601 of file BIBSEA.bib
+ :  publisher
+ :           {Berg},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1095 of file BIBSEA.bib
+ :  
+ :  urlaccessdate={28/12/2015}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "silva2000tendencias"
+refers to entry "10.1590/S0011-52582000000300001", which doesn't exist
+Warning--I didn't find a database entry for "10.1590/S0011-52582000000300001"
+Warning--can't use both volume and number fields in portes2000two
+You've used 26 entries,
+            1935 wiz_defined-function locations,
+            640 strings with 7456 characters,
+and the built_in function-call counts, 10066 in all, are:
+= -- 1001
+> -- 325
+< -- 28
++ -- 110
+- -- 100
+* -- 786
+:= -- 1719
+add.period$ -- 82
+call.type$ -- 26
+change.case$ -- 167
+chr.to.int$ -- 26
+cite$ -- 27
+duplicate$ -- 429
+empty$ -- 768
+format.name$ -- 138
+if$ -- 2030
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 34
+newline$ -- 133
+num.names$ -- 85
+pop$ -- 164
+preamble$ -- 1
+purify$ -- 176
+quote$ -- 0
+skip$ -- 328
+stack$ -- 0
+substring$ -- 719
+swap$ -- 75
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 138
+warning$ -- 1
+while$ -- 92
+width$ -- 0
+write$ -- 349
+(There were 3 error messages)
