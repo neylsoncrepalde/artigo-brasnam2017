@@ -293,7 +293,9 @@ I estimated again the generalized linear model presented in equation \ref{linear
 
 One of the most important concepts of social network analysis is \textit{structural equivalence}. Two individuals are considered structurally equivalent when they present the same relational profile, i.e., the same tie patterns \cite{lazega2014redes,denooy2011exploratory,wasserman1994social}. 
 
-I looked after blocks of structurally equivalent nodes within the Review network. I used the Erdös-Rényi mixture model, a special case of binary stochastic blockmodels. It was fit with the algorithm presented by \cite{daudin2008mixture}. The results for the model are shown in Figure \ref{net-blocks}. 
+I looked after blocks of structurally equivalent nodes within the Review network. I used the Erdös-Rényi mixture model, a special case of binary stochastic blockmodels. It was fit with the algorithm presented by \cite{daudin2008mixture}. 
+
+%The results for the model are shown in Figure \ref{net-blocks}. 
 
 %and the Review network coloured by block is in Figure \ref{net-blocks}.
 
@@ -305,17 +307,17 @@ I looked after blocks of structurally equivalent nodes within the Review network
 %	\caption{Blockmodel results}
 %\end{figure}
 
-\begin{figure}[h]
-	\centering
+%\begin{figure}[h]
+%	\centering
 
-	\label{net-blocks}
-	\includegraphics[scale=.6]{net_block.pdf}
-	\caption{Review Network with Structural Equivalence}
-\end{figure}
+%	\label{net-blocks}
+%	\includegraphics[scale=.6]{net_block.pdf}
+%	\caption{Review Network with Structural Equivalence}
+%\end{figure}
 
-Blocks 1 and 2 are constituted by students who are affiliated to two very close research groups. These groups deal with quantitative sociology and social network analysis. Block 3 shows people who belong to other research group that focus on sociology of crime. The model shows that people within strong research groups tend to be structurally equivalent regarding requests for review.
+The algorithm got a best result with 4 blocks. Blocks 1 (two students) and 2 (seven students) are constituted by individuals who are affiliated to two very close research groups. These groups deal with quantitative sociology and social network analysis. Block 3 (five students) shows people who belong to other research group that focus on sociology of crime. The remaining students were allocated to Block 4. The model shows that people within strong research groups tend to be structurally equivalent regarding requests for review.
 
-The blockmodel clustered nodes according to some strong research groups within the program. This shows us that being in a group shapes your relational pattern and, therefore, are an important feature of social reality. Now, we will focus on the Collaboration network seeking an statistical explanation for its emergence.
+The blockmodel clustered nodes according to some strong research groups within the program. This shows us that being in a group shapes your relational pattern and, therefore, it is an important feature of social reality. Now, we will focus on the Collaboration network seeking an statistical explanation for its emergence.
 
 \subsubsection{Social Selection Model}
 
